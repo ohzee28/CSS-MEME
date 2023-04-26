@@ -1,0 +1,35 @@
+
+body {
+    background-color: black;
+}
+
+.chucky {
+    height: 600px;
+    width: 950px;
+    border: aliceblue solid;
+    margin-bottom: 30px;
+}
+
+.all {
+    margin-top: 100px;
+    align-items: center;
+    display: grid;
+    justify-content: center;
+}
+
+.h1 {
+    font-family: 'Libre Baskerville';
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size:300%;
+    text-transform: uppercase;
+}
+
+.p {
+    font-family: 'Libre Baskerville';
+    background-color: black;
+    color: aliceblue;
+    text-align: center;
+    font-size: 120%;
+}
